@@ -32,4 +32,10 @@ We used Eclipse a lot during this course and I was introduced to some parts of E
 
 
 This assignment would show future employer’s that I am a dedicated learner. Coming into this course my knowledge on software security was very limited. After only 4 weeks in the course I was able to integrate well known static testing tools, determine vulnerabilities, and create a mitigation plan. My dedication to learning will reflect my dedication to work when I am in the field. 
+<br/>
+<br/>
+<br/>
+<br/>
+
+[View my Eportfolio here](https://github.com/JessicaDuft/EPortfolio)
 
